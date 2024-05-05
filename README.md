@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Khalid</h1>
-<h3 align="center">A passionate Full s developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on [Apuni Sakar Portal](https://eservices.uk.gov.in/)
 
