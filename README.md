@@ -1,18 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mohammad Khalid</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# Hi, I'm Mohammad Khalid 👋
 
-- 🔭 I’m currently working on [Apuni Sakar Portal](https://eservices.uk.gov.in/)
+👨‍💻 MERN Stack Software Developer | 📚 Lifelong Learner
 
-- 📫 How to reach me **blykhalid1999@gamil.com**
+## About Me
+I'm a passionate MERN Stack Developer with 1.5 years of experience. I aim to craft clean, efficient, and delightful solutions to real-world problems. I spend most of my days immersed in code, turning ideas into reality.
 
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/a3c905c0-b4c9-11ed-a8ba-ffad4b8da1e4](https://novoresume.com/editor/resume/a3c905c0-b4c9-11ed-a8ba-ffad4b8da1e4)
+## 💼 Skills
+Here are some of the tools and technologies I work with:
+- 💻 JavaScript | TypeScript | C/C++
+- 🌐 React.js | Next.js
+- 📦 HTML | CSS | Tailwind CSS | Ant Design
+- 💻 NodeJs | ExpressJs | NestJs
+- 🐘 MySQL | MongoDB
+- 🍃 Prisma
+- ⚙️ And more...
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/1234khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/1234khalid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-khalid-468959219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-khalid-468959219/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/reactjs_developer_khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/reactjs_developer_khalid" height="30" width="40" /></a>
-</p>
+## Let's Connect
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-khalid-468959219/)
+- 📧 Email: [Email](blykhalid1999@gmail.com)
+- 🌐 Portfolio: [Mohammad Khalid](https://mohd-khalid-portfolio.netlify.app/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🌱 Goals
+I'm committed to continuous growth and development. Some of my goals include:
+- 📚 Learning new technologies and languages
+- 🌐 Contributing to open-source projects
+
+Thanks for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or just have a chat. 😄
