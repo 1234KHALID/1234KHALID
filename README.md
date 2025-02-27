@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="300px">
+</p>
+
 # Hi, I'm Mohammad Khalid 👋
 
 👨‍💻 MERN Stack Software Developer | 📚 Lifelong Learner
